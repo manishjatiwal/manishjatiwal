@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manishjatiwal
-- 👀 I’m interested in web development using javascript. I usually wokr on ReactJs + NodeJs stack.
+- 👀 I’m interested in **algorithms** and  web development using javascript. I usually wokr on ReactJs + NodeJs stack.
 - 🌱 I’m currently learning GoLang as well as a few more framworks/libraries of javascript.
 - 💞️ I’m looking to collaborate on projects related to ReactJs
 - 📫 You can reach me through my LinkedIn profile: https://www.linkedin.com/in/manish-kumar-73955390/
